@@ -161,20 +161,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - **Contributing**: Encouragement for others to contribute to the project.
 - **License**: Information about the project license.
 
-### Next Steps
-
-1. **Update the ER Diagram**: Replace the placeholder with the actual path to your ER diagram.
-2. **API Documentation**: You might want to expand the API documentation section with more details, especially if there are other endpoints.
-3. **Customization**: Feel free to modify the README to better match your project specifics, such as changing technologies or adding additional features.
-
-
-
-
-
-
-
-
-
-
 
 "# admitSpot-backend-assignment" 
